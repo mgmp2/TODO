@@ -5,7 +5,7 @@ Sprint - 5 |40-MANEJO DEL DOM CON JQUERY | EJERCICIO GUIADO - react Style
     El ejercicio esta basandose en el uso de un patrón de diseño similar al React
   ```
 
-##Objetivo
+## Objetivo
   ```sh
  - Crear tareas
  - Dar por completadas
